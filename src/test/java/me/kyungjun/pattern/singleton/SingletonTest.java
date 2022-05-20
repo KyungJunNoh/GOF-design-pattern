@@ -37,7 +37,7 @@ public class SingletonTest {
     }
 
     @Test
-    void single_Double_Check_테스트(){
+    void singleton_Double_Check_테스트(){
         me.kyungjun.pattern.singleton.doubleCheck.Settings settings1 = me.kyungjun.pattern.singleton.doubleCheck.Settings.getInstance();
         me.kyungjun.pattern.singleton.doubleCheck.Settings settings2 = me.kyungjun.pattern.singleton.doubleCheck.Settings.getInstance();
 
