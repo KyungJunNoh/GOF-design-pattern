@@ -6,4 +6,5 @@ GoF 는 (Gang of Four) 의 약자로 Erich Gamma, Richard Helm, Ralph Johnson, J
 **생성 패턴 5개, 구조 패턴 7개, 행위 패턴 11개** 로 구성된 **23개의 디자인 패턴**을 말합니다.
 
 ### 생성 패턴
-- 싱글톤 패턴(Singleton Pattern)
+- [싱글톤 패턴(Singleton Pattern)](./docs/singleton-pattern.md)
+- [팩토리 메서드 패턴(FactoryMethod Pattern)](./docs/factorymethod-pattern.md)
