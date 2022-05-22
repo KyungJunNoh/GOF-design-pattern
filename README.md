@@ -21,6 +21,9 @@ GoF 는 (Gang of Four) 의 약자로 Erich Gamma, Richard Helm, Ralph Johnson, J
 - [추상 팩토리 패턴(AbstractFactory_Pattern)](./docs/abstractfactory-pattern.md)
   - [예제 코드](./src/main/java/me/kyungjun/pattern/abstractfactory)
   - [테스트 코드](./src/test/java/me/kyungjun/pattern/abstractfactory)
+- [빌더 패턴(Builder_Pattern)](./docs/builder-pattern.md)
+  - [에제 코드](./src/main/java/me/kyungjun/pattern/builder)
+  - [테스트 코드](./src/test/java/me/kyungjun/pattern/builder)
 
 ### Reference By.
 - 이 레포지토리는 백기선님의 [코딩으로 학습하는 GoF의 디자인 패턴](https://www.inflearn.com/course/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4) 를 기반으로 만들어졌습니다.
